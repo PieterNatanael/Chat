@@ -1,19 +1,27 @@
-# ChatGPT Chatbot for iOS
+Privacy Policy
 
-## Introduction
+Last Updated: [8/11/2024]
 
-This is an iOS application for interacting with ChatGPT using SwiftUI, WebKit WebView and JavaScript without the need for a backend service.
+Thank you for using our app! Your privacy is important to us. This privacy policy explains how we handle and protect your data.
 
-This project uses JavaScript injection in the WebView to simulate user interactions with the website, allowing you to send messages and retrieve information in real time.
+1. Data Collection
+We do not collect, store, or share any personal information from users. Any data entered into the app is processed directly and remains private to you.
 
-## Features
+2. Login Information
+Logging in is optional. If you choose to log in, your account information is used solely to connect with the ChatGPT service and is not collected or stored by our app.
 
-- Log in to ChatGPT without being blocked by Cloudflare
-- Beautiful and intuitive user interface built using SwiftUI
-- Fully programmable, allowing you to customize and extend the app's functionality to suit your needs
+3. In-App Purchases
+If you choose to make an in-app purchase, the transaction is handled by the App Store, and we do not access or store any payment information.
 
-## Screenshots
+4. Third-Party Services
+This app integrates with ChatGPT to provide responses to your queries. However, we do not share any personal data with this service, and any information processed is anonymized.
 
-![](images/2022-12-13-13-04-03.png)
-![](images/2022-12-13-13-06-42.png)
-![](images/2022-12-13-13-05-41.png)
+5. Data Security
+We prioritize your data security. All interactions within the app are secure, and we take steps to ensure your privacy is maintained.
+
+6. Contact Us
+If you have any questions about this privacy policy, please contact us at pieternatanael@icloud.com.
+
+
+
+developer notes : If anyone has a connection with Sam Altman, please let him know I’m eager to join OpenAI as an iOS developer! I’m excited to learn, contribute, and grow with the team. Thank you!
