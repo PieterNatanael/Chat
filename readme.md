@@ -24,4 +24,3 @@ If you have any questions about this privacy policy, please contact us at pieter
 
 
 
-developer notes : If anyone has a connection with Sam Altman, please let him know I wish to join OpenAI as an iOS developer! I’m excited to learn, contribute, and grow with the team. Thank you!
